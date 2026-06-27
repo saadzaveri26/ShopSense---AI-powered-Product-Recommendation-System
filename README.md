@@ -2,7 +2,7 @@
 
 A product recommendation tool that uses Google's Gemini API to match users with products based on natural language queries. Built as a single-page React application with an editorial design language.
 
-**Live Demo:** `[your-deployment-link-here]`
+**Live Demo:** https://shop-sense-ai-powered-product-recom.vercel.app/
 
 ---
 
